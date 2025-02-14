@@ -1,0 +1,19 @@
+Origen,Destino,Cost
+Warm-up activities,Skipping Rope,10
+Warm-up activities,Exercise bike,10
+Warm-up activities,Tread Mill,10
+Warm-up activities,Step Mill,10
+Skipping Rope,Dumbbell,15
+Skipping Rope,Barbell,15
+Exercise bike,Cable-Crossover,25
+Tread Mill,Pulling Bars,20
+Tread Mill,Incline Bench,20
+Step Mill,Incline Bench,16
+Dumbbell,Leg Press Machine,12
+Barbell,Leg Press Machine,10
+Cable-Crossover,Climbing Rope,10
+Pulling Bars,Climbing Rope,6
+Incline Bench,Hammer Strength,20
+Leg Press Machine,Stretching,11
+Climbing Rope,Stretching,10
+Hammer Strength,Stretching,8
